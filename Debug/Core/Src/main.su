@@ -1,0 +1,9 @@
+../Core/Src/main.c:135:6:HAL_I2S_TxCpltCallback	0	static
+../Core/Src/main.c:141:6:HAL_I2S_TxHalfCpltCallback	0	static
+../Core/Src/main.c:283:6:SystemClock_Config	96	static,ignoring_inline_asm
+../Core/Src/main.c:152:5:main	136	static,ignoring_inline_asm
+../Core/Src/main.c:813:6:StartGUITask	48	static
+../Core/Src/main.c:898:6:StartAudioTask	648	static
+../Core/Src/main.c:1016:6:StartVolumeTask	8	static
+../Core/Src/main.c:1036:6:HAL_TIM_PeriodElapsedCallback	8	static
+../Core/Src/main.c:1057:6:Error_Handler	0	static,ignoring_inline_asm

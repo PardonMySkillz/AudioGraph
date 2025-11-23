@@ -1,0 +1,5 @@
+../Core/Src/lvgl_disp.c:22:6:disp_flush_cb	24	static
+../Core/Src/lvgl_disp.c:40:6:touchpad_read_cb	16	static
+../Core/Src/lvgl_disp.c:58:6:lvgl_display_init	16	static
+../Core/Src/lvgl_disp.c:77:6:lvgl_touchpad_init	8	static
+../Core/Src/lvgl_disp.c:101:6:lvgl_port_init	16	static

@@ -1,0 +1,16 @@
+../Core/Src/audio.c:55:13:audio_ProcessBuffer	544	static
+../Core/Src/audio.c:78:6:audio_init	8	static
+../Core/Src/audio.c:83:9:audio_ParseWAVHeader	552	static
+../Core/Src/audio.c:129:6:audio_play	40	static
+../Core/Src/audio.c:163:6:audio_stop	8	static
+../Core/Src/audio.c:172:6:audio_pause	8	static
+../Core/Src/audio.c:184:6:audio_resume	8	static
+../Core/Src/audio.c:190:9:audio_is_paused	0	static
+../Core/Src/audio.c:195:6:audio_update	64	static
+../Core/Src/audio.c:257:6:audio_I2STxCpltCallback	0	static
+../Core/Src/audio.c:261:6:audio_I2STxHalfCpltCallback	0	static
+../Core/Src/audio.c:265:9:audio_isEndOfFile	0	static
+../Core/Src/audio.c:269:6:update_volume_from_adc	8	static
+../Core/Src/audio.c:279:9:audio_is_drawing	0	static
+../Core/Src/audio.c:283:6:audio_start_drawing	0	static
+../Core/Src/audio.c:286:6:audio_stop_drawing	0	static

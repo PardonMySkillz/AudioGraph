@@ -1,0 +1,16 @@
+../Core/Src/lcd.c:12:6:LCD_WriteCommand	0	static
+../Core/Src/lcd.c:17:6:LCD_WriteData	0	static
+../Core/Src/lcd.c:22:6:LCD_WriteData8	0	static
+../Core/Src/lcd.c:27:6:LCD_WriteMultipleData	0	static
+../Core/Src/lcd.c:35:6:LCD_Reset	8	static
+../Core/Src/lcd.c:44:6:LCD_SetBacklight	0	static
+../Core/Src/lcd.c:53:6:LCD_Init	40	static
+../Core/Src/lcd.c:175:6:LCD_SetWindow	8	static
+../Core/Src/lcd.c:194:6:LCD_Fill	0	static
+../Core/Src/lcd.c:205:6:LCD_DrawPixel	4	static
+../Core/Src/lcd.c:212:6:LCD_FillRect	24	static
+../Core/Src/lcd.c:227:6:LCD_DrawHLine	20	static
+../Core/Src/lcd.c:233:6:LCD_DrawVLine	20	static
+../Core/Src/lcd.c:239:6:LCD_DrawChar	24	static
+../Core/Src/lcd.c:273:6:LCD_DrawString	40	static
+../Core/Src/lcd.c:299:6:LCD_DrawCircle	56	static

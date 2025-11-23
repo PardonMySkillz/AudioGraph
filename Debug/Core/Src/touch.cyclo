@@ -1,0 +1,10 @@
+../Core/Src/touch.c:28:6:Touch_Init	1
+../Core/Src/touch.c:50:9:Touch_Is_Pressed	1
+../Core/Src/touch.c:55:10:Touch_Read_ADC	1
+../Core/Src/touch.c:60:6:Touch_Get_Point	3
+../Core/Src/touch.c:84:6:Touch_Get_Calibrated_Point	5
+../Core/Src/touch.c:110:9:Touch_Is_Calibrated	1
+../Core/Src/touch.c:115:9:Touch_Calibrate	10
+../Core/Src/touch.c:205:6:Touch_Save_Calibration	3
+../Core/Src/touch.c:235:9:Touch_Load_Calibration	2
+../Core/Src/touch.c:253:6:HAL_GPIO_EXTI_Callback	3

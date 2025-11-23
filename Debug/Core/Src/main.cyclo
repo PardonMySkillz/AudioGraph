@@ -1,0 +1,9 @@
+../Core/Src/main.c:135:6:HAL_I2S_TxCpltCallback	2
+../Core/Src/main.c:141:6:HAL_I2S_TxHalfCpltCallback	2
+../Core/Src/main.c:283:6:SystemClock_Config	3
+../Core/Src/main.c:152:5:main	23
+../Core/Src/main.c:813:6:StartGUITask	15
+../Core/Src/main.c:898:6:StartAudioTask	18
+../Core/Src/main.c:1016:6:StartVolumeTask	1
+../Core/Src/main.c:1036:6:HAL_TIM_PeriodElapsedCallback	4
+../Core/Src/main.c:1057:6:Error_Handler	1

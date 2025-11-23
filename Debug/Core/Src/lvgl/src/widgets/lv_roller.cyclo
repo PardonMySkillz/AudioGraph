@@ -1,0 +1,16 @@
+../Core/Src/lvgl/src/widgets/lv_roller.c:777:13:set_y_anim	1
+../Core/Src/lvgl/src/widgets/lv_roller.c:570:13:get_sel_area	1
+../Core/Src/lvgl/src/widgets/lv_roller.c:726:13:inf_normalize.part.0	1
+../Core/Src/lvgl/src/widgets/lv_roller.c:771:13:scroll_anim_ready_cb	2
+../Core/Src/lvgl/src/widgets/lv_roller.c:594:13:refr_position	10
+../Core/Src/lvgl/src/widgets/lv_roller.c:291:13:lv_roller_constructor	4
+../Core/Src/lvgl/src/widgets/lv_roller.c:415:13:lv_roller_label_event	10
+../Core/Src/lvgl/src/widgets/lv_roller.c:312:13:lv_roller_event	57
+../Core/Src/lvgl/src/widgets/lv_roller.c:78:12:lv_roller_create	1
+../Core/Src/lvgl/src/widgets/lv_roller.c:96:6:lv_roller_set_options	9
+../Core/Src/lvgl/src/widgets/lv_roller.c:152:6:lv_roller_set_selected	6
+../Core/Src/lvgl/src/widgets/lv_roller.c:191:6:lv_roller_set_visible_row_count	1
+../Core/Src/lvgl/src/widgets/lv_roller.c:210:10:lv_roller_get_selected	2
+../Core/Src/lvgl/src/widgets/lv_roller.c:230:6:lv_roller_get_selected_str	12
+../Core/Src/lvgl/src/widgets/lv_roller.c:262:14:lv_roller_get_options	1
+../Core/Src/lvgl/src/widgets/lv_roller.c:274:10:lv_roller_get_option_cnt	2

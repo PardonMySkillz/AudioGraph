@@ -1,0 +1,10 @@
+../Core/Src/music_player_gui.c:278:13:ff_btn_event_cb	1
+../Core/Src/music_player_gui.c:239:13:draw_btn_event_cb	4
+../Core/Src/music_player_gui.c:211:13:pause_btn_event_cb	2
+../Core/Src/music_player_gui.c:170:13:play_btn_event_cb	4
+../Core/Src/music_player_gui.c:230:13:back_btn_event_cb	1
+../Core/Src/music_player_gui.c:288:13:slow_btn_event_cb	1
+../Core/Src/music_player_gui.c:162:13:next_btn_event_cb	3
+../Core/Src/music_player_gui.c:154:13:prev_btn_event_cb	3
+../Core/Src/music_player_gui.c:199:6:update_progress_label	2
+../Core/Src/music_player_gui.c:302:6:MusicPlayerGUI_Init	4
